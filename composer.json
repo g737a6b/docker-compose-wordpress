@@ -1,5 +1,0 @@
-{
-	"scripts": {
-		"wp-install": "wget https://ja.wordpress.org/wordpress-4.9.6-ja.zip && unzip wordpress-4.9.6-ja.zip && rm wordpress-4.9.6-ja.zip"
-	}
-}
